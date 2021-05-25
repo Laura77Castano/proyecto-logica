@@ -336,3 +336,4 @@ void contenedorMenosPesado(float peso[filas][columnas]) {
     }
 
     cout << "El peso menos pesado" << pesoMenor<< endl;
+}
